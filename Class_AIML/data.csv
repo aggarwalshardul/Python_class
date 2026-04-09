@@ -1,0 +1,11 @@
+OrderID,OrderDate,CustomerName,City,Product,Category,Quantity,UnitPrice,Discount(%),PaymentMode,Salesperson,TotalAmount
+5001,2025-01-05,Rahul,Delhi,Laptop,Electronics,1,55000,10,UPI,Amit,49500
+5002,2025-01-06,Neha,Mumbai,Smartphone,Electronics,2,25000,5,Card,Priya,47500
+5003,2025-01-07,Aman,Jaipur,Headphones,Accessories,3,3000,0,Cash,Rohit,9000
+5004,2025-01-08,Pooja,Pune,Smartwatch,Electronics,1,12000,8,UPI,Neha,11040
+5005,2025-01-09,Karan,Delhi,Office Chair,Furniture,2,8500,12,Card,Amit,14960
+5006,2025-01-10,Anjali,Bhopal,Tablet,Electronics,1,18000,5,UPI,Priya,17100
+5007,2025-01-11,Rohit,Indore,Desk Lamp,Furniture,4,1500,0,Cash,Neha,z
+5008,2025-01-12,Sneha,Ahmedabad,Refrigerator,Appliances,1,42000,7,Card,Amit,39060
+5009,2025-01-13,Vikas,Chandigarh,Microwave,Appliances,1,15000,6,UPI,Rohit,14100
+5010,2025-01-14,Meena,Surat,Air Conditioner,Appliances,1,48000,10,Card,Priya,43200

@@ -1,0 +1,1 @@
+plt.hist(df['total_bill'], bins=20)
